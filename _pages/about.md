@@ -2,25 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: librarian, linguist, community member.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p style="font-size:12px"><a href ="mailto:aliawarsco@nyu.edu">aliawarsco [AT] nyu [DOT] edu</a></p>
+    <p></p>
+    <p></p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am **Alía Warsco** (she/her/ella), a Brooklyn-based dual-degree student in Latin American and Caribbean Studies at New York University, and Library and Information Science at Long Island University. My projected graduation date is December 2024.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work is largely influenced by methods of Indigenous and critical librarianship. Most of my research is in Indigenous language use in Latin America as forms of state resistance and identity formation. I am learning Runasimi (Quechua, Cusco Variety) at NYU. I am also the digital librarian and creator of [Runakunaq Bibliotecanku](https://runaqlib.hosting.nyu.edu), a collection of resources that center the Andes, Quechua language, and worldwide Indigenous learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I am interrogating how—and indeed whether—digital libraries and archives can be employed for Indigenous language documentation and learning. My thesis is tentatively named Language as an Everyday Form of Resistance: The Case of Southern Quechua. I am also a member of the [Runasimi Outreach Collective](https://www.instagram.com/roc_nyu/) at NYU.
+
+Outside of my academic interests, I also do stick-and-poke tattoos and love my dog, Rudy.
