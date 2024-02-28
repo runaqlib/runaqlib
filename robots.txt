@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://runaqlib.github.io//sitemap.xml
+Sitemap: https://runaqlib.github.io/sitemap.xml
