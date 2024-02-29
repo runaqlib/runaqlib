@@ -14,7 +14,7 @@ horizontal: false
 ## Summer 2023
 
 - [NYU Digital Humanities](https://digitalhumanities.nyu.edu/funding/grad-fellowships/) Student Summer Fellowship
-I created [Runakunaq Bibliotecanku](https://runaqlib.hosting.nyu.edu), a static site using CollectionBuilder + Jekyll as an open resource to access texts about the Andes, Quechua Language, and Worldwide Indigenous study.
+    - I created [Runakunaq Bibliotecanku](https://runaqlib.hosting.nyu.edu), a static site using CollectionBuilder + Jekyll as an open resource to access texts about the Andes, Quechua Language, and Worldwide Indigenous study.
 
 ## Spring 2023
 
