@@ -24,6 +24,6 @@ I am **Alía Warsco** (she/her/ella), a Brooklyn-based dual-degree student in La
 My work is largely influenced by methods of Indigenous and critical librarianship. Most of my research is in Indigenous language use in Latin America as forms of state resistance and identity formation. I am learning Runasimi (Quechua, Cusco Variety) at NYU. I am also the digital librarian and creator of [Runakunaq Bibliotecanku](https://runaqlib.hosting.nyu.edu), a collection of resources that center the Andes, Quechua language, and worldwide Indigenous learning.
 
 
-I am interrogating how—and indeed whether—digital libraries and archives can be employed for Indigenous language documentation and learning. My thesis is tentatively named Language as an Everyday Form of Resistance: The Case of Southern Quechua. I am also a member of the [Runasimi Outreach Collective](https://www.instagram.com/roc_nyu/) at NYU.
+I am interrogating how—and indeed whether—digital libraries and archives can be employed for Indigenous language documentation and learning. My thesis is tentatively named _Language as an Everyday Form of Resistance: The Case of Southern Quechua_. I am also a member of the [Runasimi Outreach Collective](https://www.instagram.com/roc_nyu/) at NYU.
 
 Outside of my academic interests, I also do stick-and-poke tattoos and love my dog, Rudy.
