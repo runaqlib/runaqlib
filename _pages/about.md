@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -27,3 +27,5 @@ My work is largely influenced by methods of Indigenous and critical librarianshi
 I am interrogating how—and indeed whether—digital libraries and archives can be employed for Indigenous language documentation and learning. My thesis is tentatively named _Language as an Everyday Form of Resistance: The Case of Southern Quechua_. I am also a member of the [Runasimi Outreach Collective](https://www.instagram.com/roc_nyu/) at NYU.
 
 Outside of my academic interests, I also do stick-and-poke tattoos and love my dog, Rudy.
+<p></p>
+<p></p>
