@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://runaqlib.github.io/runaqlib/sitemap.xml
+Sitemap: https://aliawars.co/sitemap.xml
