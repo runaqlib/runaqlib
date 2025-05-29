@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: librarian, linguist, community member.
+subtitle: librarian, digital humanist, community member.
 
 profile:
   align: right
@@ -19,13 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am **Alía Warsco** (she/her/ella), a Brooklyn-based dual-degree student in Latin American and Caribbean Studies at New York University, and Library and Information Science at Long Island University. My projected graduation date is December 2024.
+I am **Alía Warsco** (she/her/ella), a Brooklyn-based librarian focused on critical librarianship, digital scholarship, and digital access and preservation. I completed my MSLIS from Long Island University in December 2024 and my MA in Latin American and Caribbean studies from NYU in May 2025.
 
-My work is largely influenced by methods of Indigenous and critical librarianship. Most of my research is in Indigenous language use in Latin America as forms of state resistance and identity formation. I am learning Runasimi (Quechua, Cusco Variety) at NYU. I am also the digital librarian and creator of [Runakunaq Bibliotecanku](https://runaqlib.hosting.nyu.edu), a collection of resources that center the Andes, Quechua language, and worldwide Indigenous learning.
+My practice is informed by methods of Indigenous and critical librarianship, and my research centers on Indigenous language use in Latin America as a form of resistance and identify formation. I learned Runasimi (Quechua, Cusco Variety) during my time at NYU. I am the digital librarian and creator of [Runakunaq Bibliotecanku](https://runaqlib.github.io/runakunaqbibliotecanku/), a collection of resources that center the Andes and Quechua language.
 
+I interrogate how—and indeed whether—digital libraries and archives can be employed for Indigenous language documentation and learning. My thesis for NYU involved digitizing, transcribing, and translating [_Cronicawan_](https://runaqlib.github.io/cronicawan-wax/), a state-supported Quechua newspaper published in 1975 in Peru. I am also a member of the [Runasimi Outreach Collective](https://www.instagram.com/roc_nyu/) at NYU.
 
-I am interrogating how—and indeed whether—digital libraries and archives can be employed for Indigenous language documentation and learning. My thesis is tentatively named _Language as an Everyday Form of Resistance: The Case of Southern Quechua_. I am also a member of the [Runasimi Outreach Collective](https://www.instagram.com/roc_nyu/) at NYU.
-
-Outside of my academic interests, I also do stick-and-poke tattoos and love my dog, Rudy.
+Outside of my academic interests, I also love stick-and-poke tattoos and my dog, Rudy.
 <p></p>
 <p></p>
