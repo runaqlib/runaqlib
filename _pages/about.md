@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size:12px"><a href ="mailto:aliawarsco@nyu.edu">aliawarsco [AT] nyu [DOT] edu</a></p>
+    <p style="font-size:12px"><a href ="mailto:aliawarsco@nyu.edu">aliawarsco [AT] gmail [DOT] com</a></p>
     <p></p>
     <p></p>
 
@@ -23,7 +23,7 @@ I am **Alía Warsco** (she/her/ella), a Brooklyn-based librarian focused on crit
 
 My practice is informed by methods of Indigenous and critical librarianship, and my research centers on Indigenous language use in Latin America as a form of resistance and identify formation. I learned Runasimi (Quechua, Cusco Variety) during my time at NYU. I am the digital librarian and creator of [Runakunaq Bibliotecanku](https://runaqlib.github.io/runakunaqbibliotecanku/), a collection of resources that center the Andes and Quechua language.
 
-I interrogate how—and indeed whether—digital libraries and archives can be employed for Indigenous language documentation and learning. My thesis for NYU involved digitizing, transcribing, and translating [_Cronicawan_](https://runaqlib.github.io/cronicawan-wax/), a state-supported Quechua newspaper published in 1975 in Peru. I am also a member of the [Runasimi Outreach Collective](https://www.instagram.com/roc_nyu/) at NYU.
+I interrogate how—and indeed whether—digital libraries and archives can be employed for Indigenous language documentation and learning. My thesis for NYU involved digitizing, transcribing, and translating [_Cronicawan_](https://runaqlib.github.io/cronicawan-wax/), a state-supported Quechua newspaper published in 1975 in Peru. I am also a member of the [Runasimi Outreach Collective](https://www.instagram.com/roc_nyu/) at NYU. I am interested in minimal computing and static approaches to digital initiatives. 
 
 Outside of my academic interests, I also love stick-and-poke tattoos and my dog, Rudy.
 <p></p>
