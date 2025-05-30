@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /gazing
 title: "Gazing Into the Borders: Guaman Poma and El primer nueva corónica y buen gobierno"
 date: 2023-12-20
 ---
