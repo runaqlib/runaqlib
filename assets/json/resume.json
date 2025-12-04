@@ -92,8 +92,7 @@ representation, appropriate access, and alignment with CARE and FAIR principles"
     },
     {
       "name": "Chile 1973/2023",
-      "summary": "Created website for events happening around New York City to commemorate the 50th anniversary of the U.S.-backed military coup in Chile.",
-      "highlights": ["Wordpress", "Dev"],
+      "summary": "Created Wordpress-based website for events happening around New York City to commemorate the 50th anniversary of the U.S.-backed military coup in Chile.",
       "startDate": "2023-06-01",
       "endDate": "2023-08-01"
     }
