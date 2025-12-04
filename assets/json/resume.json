@@ -71,7 +71,7 @@ featuring Cronicawan", "Developed a structured archival database for preservatio
 based standards, presented through a static site built with Wax and Jekyll", "Assessed cultural, linguistic, and ethical considerations in preserving Indigenous media, designing for
 community and scholarly use while maintaining data integrity and respecting original contexts"],
       "startDate": "2025-01-01",
-      "url": "https://runaqlib.github.io/runakunaqbibliotecanku/
+      "url": "https://runaqlib.github.io/runakunaqbibliotecanku/"
     },
     {
       "name": "Runakunaq Bibliotecanku",
@@ -95,8 +95,7 @@ representation, appropriate access, and alignment with CARE and FAIR principles"
       "summary": "Created website for events happening around New York City to commemorate the 50th anniversary of the U.S.-backed military coup in Chile.",
       "highlights": ["Wordpress", "Dev"],
       "startDate": "2023-06-01",
-      "endDate": "2023-08-01",
-      "url": "https://chile2023.art"
+      "endDate": "2023-08-01"
     }
   ],
   "education": [
