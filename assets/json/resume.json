@@ -18,40 +18,42 @@
       "startDate": "2025-05-01",
       "url": "https://hapi.ucla.edu/",
       "summary": "Assist in cataloging journal articles for Latin American and Indigenous studies subjects for UCLA's HAPI search directory.",
-      "highlights": ["Perform article-level cataloging for Latin American and Indigenous studies journals, applying LCSH
-and FAST-based controlled vocabularies to ensure accurate subject access", "Create detailed and descriptive metadata by analyzing article content, identifying key themes,
-authors, and focus, and applying accurate terms that correct bias in legacy subject headings"],
+      "highlights": [
+        "Perform article-level cataloging for Latin American and Indigenous studies journals, applying LCSH\nand FAST-based controlled vocabularies to ensure accurate subject access",
+        "Create detailed and descriptive metadata by analyzing article content, identifying key themes,\nauthors, and focus, and applying accurate terms that correct bias in legacy subject headings"
+      ]
     },
     {
       "name": "Division of Libraries, New York University",
       "position": "Digital Scholarship Graduate Student Specialist",
       "startDate": "2024-05-01",
-      "endDate": "2025-05-1",
+      "endDate": "2025-05-01",
       "summary": "Supported the department's DH grant opportunities, and supported faculty and student projects with consultation, workshops, advice, and guidance",
-      "highlights": ["Provided reference and research consultations to faculty and graduate students for grant-funded
-digital humanities projects, highlighting digital preservation practices for archival projects", "Maintained research guides, user documentation, and LibGuides to assist in navigating digital
-humanities, Fair Use and Copyright, and accessing digital archives", "Developed and led workshops for graduate students and faculty about creating static sites with no
-programming experience, metadata management, and digital preservation for DH projects", "Supported the Digital Humanities grant program for faculty and students, reporting on grant results,
-troubleshooting software, crafting blog posts, and supporting project presentation for public visibility"],
+      "highlights": [
+        "Provided reference and research consultations to faculty and graduate students for grant-funded\ndigital humanities projects, highlighting digital preservation practices for archival projects",
+        "Maintained research guides, user documentation, and LibGuides to assist in navigating digital\nhumanities, Fair Use and Copyright, and accessing digital archives",
+        "Developed and led workshops for graduate students and faculty about creating static sites with no\nprogramming experience, metadata management, and digital preservation for DH projects",
+        "Supported the Digital Humanities grant program for faculty and students, reporting on grant results,\ntroubleshooting software, crafting blog posts, and supporting project presentation for public visibility"
+      ]
     },
     {
       "name": "Division of Libraries, New York University",
       "position": "IIIF Community Coordinator (Digital Scholarship Services)",
       "startDate": "2024-01-01",
-      "endDate": "2024-05-1",
-      "summary": "Creating workflows and resources for using IIIF standards, IIIF-compatible content, and creating new IIIF materials by surveying potential users and implementers.",
-      "highlights": ["Created step-by-step GitHub-based tutorials for implementing IIIF, enabling library staff and
-researchers to use image APIs, manifests, and viewers without advanced programming skills", "Led the conference presentation, “DIY IIIF: A Sample of Standalone, Static, and Skunkworks
-Implementations” to present at the 2024 IIIF Annual Conference, introducing scalable IIIF adoption,
-and emphasizing sustainable, low-barrier implementation", "Served as a point of contact for IIIF at NYU, fostering shared understanding of IIIF capabilities
-across archives, IT, and subject liaisons to promote strategic alignment with departmental priorities"],
+      "endDate": "2024-05-01",
+      "summary": "Created workflows and resources for using IIIF standards, IIIF-compatible content, and creating new IIIF materials by surveying potential users and implementers.",
+      "highlights": [
+        "Created step-by-step GitHub-based tutorials for implementing IIIF, enabling library staff and\nresearchers to use image APIs, manifests, and viewers without advanced programming skills",
+        "Led the conference presentation, “DIY IIIF: A Sample of Standalone, Static, and Skunkworks\nImplementations” at the 2024 IIIF Annual Conference, introducing scalable IIIF adoption and emphasizing sustainable, low-barrier implementation",
+        "Served as a point of contact for IIIF at NYU, fostering shared understanding of IIIF capabilities\nacross archives, IT, and subject liaisons to promote strategic alignment with departmental priorities"
+      ]
     },
     {
       "name": "Center for Latin American and Caribbean Studies, New York University",
       "position": "Graduate Student Assistant",
       "startDate": "2023-03-01",
-      "endDate": "2023-12-1",
-      "summary": "Led the first major effort to catalog the CLACS Quechua Library, ultimately resulting in the creation of Runakunaq Bibliotecanku (see Projects). Additionally, assisted with departmental events through promotion and administrative support."
+      "endDate": "2023-12-01",
+      "summary": "Led the first major effort to catalog the CLACS Quechua Library, resulting in the creation of Runakunaq Bibliotecanku (see Projects). Assisted with departmental events through promotion and administrative support."
     },
     {
       "name": "Epicenter NYC",
@@ -59,32 +61,36 @@ across archives, IT, and subject liaisons to promote strategic alignment with de
       "url": "https://epicenter-nyc.com/",
       "startDate": "2022-07-01",
       "endDate": "2023-01-01",
-      "summary": "Contributed to the weekly newsletter with Quechua language learnings. Reported for citywide COVID-19 and MPV grant, including social media outreach, community programming, and vaccination efforts. Additionally, managed the schedule for the CEO/Founder, Mitra Kalita."
+      "summary": "Contributed to the weekly newsletter with Quechua language learnings. Reported for citywide COVID-19 and MPV grant programs, including social media outreach, community programming, and vaccination efforts. Also managed the schedule for CEO/Founder Mitra Kalita."
     }
   ],
   "projects": [
     {
       "name": "Digitizing Cronicawan",
-      "summary": "An online, static digital archive featuring Cronicawan, a newspaper published during th 1970s revolution taking place in Cusco. A collaboration with the Centro Bartolome de las Casas in Cusco, Peru, and my Master's thesis project.",
-      "highlights": ["Open Access, Andean Studies, Quechua", "Led the digitization, cataloguing, metadata creation, and access design for a bilingual digital archive
-featuring Cronicawan", "Developed a structured archival database for preservation and discovery using DACS- and EAD-
-based standards, presented through a static site built with Wax and Jekyll", "Assessed cultural, linguistic, and ethical considerations in preserving Indigenous media, designing for
-community and scholarly use while maintaining data integrity and respecting original contexts"],
+      "summary": "An online, static digital archive featuring Cronicawan, a newspaper published during the 1970s revolution in Cusco. A collaboration with the Centro Bartolomé de las Casas in Cusco, Peru, and my Master's thesis project.",
+      "highlights": [
+        "Open Access, Andean Studies, Quechua",
+        "Led the digitization, cataloguing, metadata creation, and access design for a bilingual digital archive\nfeaturing Cronicawan",
+        "Developed a structured archival database for preservation and discovery using DACS- and EAD-\nbased standards, presented through a static site built with Wax and Jekyll",
+        "Assessed cultural, linguistic, and ethical considerations in preserving Indigenous media, designing for\ncommunity and scholarly use while maintaining data integrity and respecting original contexts"
+      ],
       "startDate": "2025-01-01",
       "url": "https://runaqlib.github.io/runakunaqbibliotecanku/"
     },
     {
       "name": "Runakunaq Bibliotecanku",
-      "summary": "An open-access library and catalog for NYU's Center for Latin American Studies' holdings on Andean studies, Quechua language, and worldwide Indigenous studies",
-      "highlights": ["Open Access, Andean Studies, Quechua", "Developed metadata description, preservation, and discovery workflows for the collection, enhancing
-accessibility and long-term stewardship", "Collaborated with community members, students, and faculty to ensure culturally respectful
-representation, appropriate access, and alignment with CARE and FAIR principles"],
+      "summary": "An open-access library and catalog for NYU's Center for Latin American Studies' holdings on Andean studies, Quechua language, and worldwide Indigenous studies.",
+      "highlights": [
+        "Open Access, Andean Studies, Quechua",
+        "Developed metadata description, preservation, and discovery workflows for the collection, enhancing\naccessibility and long-term stewardship",
+        "Collaborated with community members, students, and faculty to ensure culturally respectful\nrepresentation, appropriate access, and alignment with CARE and FAIR principles"
+      ],
       "startDate": "2023-01-01",
       "url": "https://runaqlib.github.io/cronicawan-wax/"
     },
     {
       "name": "IIIF Guides - NYU",
-      "summary": "Creating guides and resources to expand IIIF (International Image Interoperability Framework) awareness and use at NYU.",
+      "summary": "Created guides and resources to expand IIIF (International Image Interoperability Framework) awareness and use at NYU.",
       "highlights": ["IIIF", "Open Resource"],
       "startDate": "2024-01-01",
       "endDate": "2024-05-01",
@@ -92,7 +98,7 @@ representation, appropriate access, and alignment with CARE and FAIR principles"
     },
     {
       "name": "Chile 1973/2023",
-      "summary": "Created Wordpress-based website for events happening around New York City to commemorate the 50th anniversary of the U.S.-backed military coup in Chile.",
+      "summary": "Created a WordPress-based website for events around New York City commemorating the 50th anniversary of the U.S.-backed military coup in Chile.",
       "startDate": "2023-06-01",
       "endDate": "2023-08-01"
     }
@@ -102,10 +108,13 @@ representation, appropriate access, and alignment with CARE and FAIR principles"
       "institution": "New York University",
       "location": "New York, NY",
       "studyType": "MA, Latin American and Caribbean Studies",
-      "thesis": "Digitizing Cronicawan: Peru's First and Only Quechua-langauge Newspaper",
+      "thesis": "Digitizing Cronicawan: Peru's First and Only Quechua-language Newspaper",
       "startDate": "2022-08-03",
       "endDate": "2025-05-01",
-      "courses": ["Comparative Racisms in Latin America", "Critical Voices in Sustainability and Environmental Justice"],
+      "courses": [
+        "Comparative Racisms in Latin America",
+        "Critical Voices in Sustainability and Environmental Justice"
+      ]
     },
     {
       "institution": "Long Island University - Post",
@@ -114,7 +123,10 @@ representation, appropriate access, and alignment with CARE and FAIR principles"
       "studyType": "MS, Library and Information Science",
       "startDate": "2022-08-03",
       "endDate": "2024-12-31",
-      "courses": ["Critical Librarianship and Sustainability", "Archives and Manuscripts"]
+      "courses": [
+        "Critical Librarianship and Sustainability",
+        "Archives and Manuscripts"
+      ]
     },
     {
       "institution": "New York University",
@@ -123,36 +135,39 @@ representation, appropriate access, and alignment with CARE and FAIR principles"
       "studyType": "B.A., Linguistics and Anthropology",
       "startDate": "2016-08-03",
       "endDate": "2019-05-25",
-      "courses": ["Indigenous Languages in the Americas", "Language in Latin America"]
+      "courses": [
+        "Indigenous Languages in the Americas",
+        "Language in Latin America"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Mithcell Family Prize for Outstanding Scholarship in Latin American and Caribbean Studies",
+      "title": "Mitchell Family Prize for Outstanding Scholarship in Latin American and Caribbean Studies",
       "date": "2025-05-01",
       "awarder": "NYU Center for Latin American and Caribbean Studies",
-      "summary": "FLAS Fellowships provide allocations of academic year and summer fellowships to institutions of higher education to assist meritorious graduate students undergoing training in modern foreign languages and related area or international studies."
+      "summary": "Awarded to an exceptional graduate student demonstrating outstanding research and scholarship in Latin American and Caribbean Studies."
     },
     {
       "title": "Foreign Language and Area Studies Fellowship - Quechua",
       "date": "2022-08-01",
       "awarder": "U.S. Department of Education",
       "url": "https://www2.ed.gov/programs/iegpsflasf/index.html",
-      "summary": "FLAS Fellowships provide allocations of academic year and summer fellowships to institutions of higher education to assist meritorious graduate students undergoing training in modern foreign languages and related area or international studies."
+      "summary": "FLAS fellowships support meritorious graduate students undergoing training in modern foreign languages and related area studies."
     },
     {
       "title": "Dália Leonardo Student Award",
       "date": "2023-05-01",
       "awarder": "Library Association of CUNY",
       "url": "https://lacuny.org/Dalia-Leonardo-Library-School-Scholarship",
-      "summary": "In honor of Leonardo's lifelong contributions to the field, LACUNY has created the Dália Leonardo Library School Scholarship for students who show interest in description, digitization, and organizaiton."
+      "summary": "Awarded to students who show strong interest in description, digitization, and organization, honoring Leonardo's lifelong contributions to librarianship."
     },
     {
       "title": "Sapir Award for Research in Anthropology and Linguistics",
       "date": "2019-08-01",
       "awarder": "NYU Department of Anthropology and Linguistics",
       "url": "https://as.nyu.edu/departments/anthropology/undergraduate/undergraduate-departmental-prizes/DepartmentalHonors/the-edward-sapir-prize.html",
-      "summary": "The Edward Sapir Prize is given once a year to an outstanding senior with a joint major in Linguistics and Anthropology."
+      "summary": "Awarded to an outstanding senior with a joint major in Linguistics and Anthropology."
     }
   ],
   "languages": [
@@ -180,7 +195,7 @@ representation, appropriate access, and alignment with CARE and FAIR principles"
         "Open access / Open Educational Resources",
         "Critical Librarianship",
         "Indigenous Librarianship",
-        "Digital libraries and archives", 
+        "Digital libraries and archives",
         "Intersections of art, academia, and community"
       ]
     },
