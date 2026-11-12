@@ -13,6 +13,22 @@
   },
   "work": [
     {
+      "name": "Hispanic Society Museum & Library",
+      "position": "Digital Projects Coordinator",
+      "startDate": "2026-02-01",
+      "url": "https://diglib.hispanicsociety.org/",
+      "summary": "Administer the Hispanic Society's Archipelago digital repository and coordinate digitization and systems work across the Museum, Modern Library, and Prints and Photos departments.",
+      "highlights": [
+        "Serve as primary administrator of Archipelago, an open-source Drupal/Solr digital repository: configuration, maintenance, troubleshooting, and front-end development (PHP, HTML, CSS) for the public Digital Collections site (diglib.hispanicsociety.org)",
+        "Build Python scripts (pandas, Pillow, ImageMagick) for bulk loading of metadata and images, including derivative generation (TIFF to JPG/PDF), cropping, CSV transformation, and reconciliation of metadata against linked-data sources",
+        "Write SQL queries and Python scripts to extract repository data into CSV reports for catalogers; compile system statistics and outcome reports for grant funders",
+        "Administer S3-compatible cloud object storage (Hetzner); working to automate transfers and backups with rclone",
+        "Coordinate systems work across the Museum, Modern Library, and Prints and Photos departments and their platforms (TMS, Archipelago), developing workflows tailored to each team and project",
+        "Designed the end-to-end digitization workflow, from project planning and imaging through upload and backup",
+        "Increased upload capacity by 500% by implementing batch uploading, uploaded 6,000+ objects, and launched the platform within 6 months of starting to meet grant deadlines"
+      ]
+    },
+    {
       "name": "Hispanic American Periodicals Index",
       "position": "Volunteer Cataloger",
       "startDate": "2025-05-01",
@@ -26,14 +42,14 @@
     {
       "name": "Division of Libraries, New York University",
       "position": "Digital Scholarship Graduate Student Specialist",
-      "startDate": "2024-05-01",
+      "startDate": "2024-02-01",
       "endDate": "2025-05-01",
       "summary": "Supported the department's DH grant opportunities, and supported faculty and student projects with consultation, workshops, advice, and guidance",
       "highlights": [
-        "Provided reference and research consultations to faculty and graduate students for grant-funded\ndigital humanities projects, highlighting digital preservation practices for archival projects",
-        "Maintained research guides, user documentation, and LibGuides to assist in navigating digital\nhumanities, Fair Use and Copyright, and accessing digital archives",
-        "Developed and led workshops for graduate students and faculty about creating static sites with no\nprogramming experience, metadata management, and digital preservation for DH projects",
-        "Supported the Digital Humanities grant program for faculty and students, reporting on grant results,\ntroubleshooting software, crafting blog posts, and supporting project presentation for public visibility"
+        "Developed research guides, tutorials, and LibGuides to assist in navigating digital humanities, IIIF standards, and creating digital collections",
+        "Provided reference and research consultations to faculty and graduate students across disciplines, with a focus on sustainable web development and web archiving practices",
+        "Taught workshops on static websites, introductory programming, and digital preservation using CollectionBuilder, Wax, Jekyll, and GitHub Pages",
+        "Supported the Digital Humanities grant program for faculty and students, reporting on grant results, crafting blog posts, and supporting projects through platform consultation"
       ]
     },
     {
@@ -51,9 +67,15 @@
     {
       "name": "Center for Latin American and Caribbean Studies, New York University",
       "position": "Graduate Student Assistant",
-      "startDate": "2023-03-01",
+      "startDate": "2023-02-01",
       "endDate": "2023-12-01",
-      "summary": "Led the first major effort to catalog the CLACS Quechua Library, resulting in the creation of Runakunaq Bibliotecanku (see Projects). Assisted with departmental events through promotion and administrative support."
+      "summary": "Led the first major effort to catalog the CLACS Quechua Library, resulting in the creation of Runakunaq Bibliotecanku (see Projects). Assisted with departmental events through promotion and administrative support.",
+      "highlights": [
+        "Established collection policies and organization systems for the CLACS Classroom Library",
+        "Increased accessibility of social media posts by providing image descriptions for posts",
+        "Designed and maintained the Chile 1973/2023 website to highlight programming and resources",
+        "Supported departmental events by creating flyers, organizing speakers, and assisting with events"
+      ]
     },
     {
       "name": "Epicenter NYC",
@@ -72,10 +94,11 @@
         "Open Access, Andean Studies, Quechua",
         "Led the digitization, cataloguing, metadata creation, and access design for a bilingual digital archive\nfeaturing Cronicawan",
         "Developed a structured archival database for preservation and discovery using DACS- and EAD-\nbased standards, presented through a static site built with Wax and Jekyll",
+        "Developed a custom Transkribus model that recognizes print media formats and Quechua language, keeping data local to the project",
         "Assessed cultural, linguistic, and ethical considerations in preserving Indigenous media, designing for\ncommunity and scholarly use while maintaining data integrity and respecting original contexts"
       ],
       "startDate": "2025-01-01",
-      "url": "https://runaqlib.github.io/runakunaqbibliotecanku/"
+      "url": "https://runaqlib.github.io/cronicawan-wax/"
     },
     {
       "name": "Runakunaq Bibliotecanku",
@@ -86,7 +109,18 @@
         "Collaborated with community members, students, and faculty to ensure culturally respectful\nrepresentation, appropriate access, and alignment with CARE and FAIR principles"
       ],
       "startDate": "2023-01-01",
-      "url": "https://runaqlib.github.io/cronicawan-wax/"
+      "endDate": "2024-12-01",
+      "url": "https://runaqlib.github.io/runakunaqbibliotecanku/"
+    },
+    {
+      "name": "EcStatic Magic: Static Sites for DH Projects",
+      "summary": "A hands-on workshop introducing static site generation tools to faculty and students interested in DH projects.",
+      "highlights": [
+        "Developed and delivered a workshop introducing static site generation tools, including CollectionBuilder, Jekyll, and GitHub Pages",
+        "Focused on empowering faculty and students to independently design and maintain digital archives, fostering knowledge sharing and digital preservation"
+      ],
+      "startDate": "2024-11-01",
+      "endDate": "2025-05-01"
     },
     {
       "name": "IIIF Guides - NYU",
@@ -108,12 +142,13 @@
       "institution": "New York University",
       "location": "New York, NY",
       "studyType": "MA, Latin American and Caribbean Studies",
-      "thesis": "Digitizing Cronicawan: Peru's First and Only Quechua-language Newspaper",
+      "thesis": "Digitizing Cronicawan: Peru's First and Only State-Supported Quechua Newspaper",
       "startDate": "2022-08-03",
       "endDate": "2025-05-01",
       "courses": [
         "Comparative Racisms in Latin America",
-        "Critical Voices in Sustainability and Environmental Justice"
+        "Critical Voices in Environmentalism and Sustainability",
+        "Quechua Language"
       ]
     },
     {
@@ -124,8 +159,9 @@
       "startDate": "2022-08-03",
       "endDate": "2024-12-31",
       "courses": [
-        "Critical Librarianship and Sustainability",
-        "Archives and Manuscripts"
+        "Knowledge Organization",
+        "User Experience and Design",
+        "Critical Librarianship"
       ]
     },
     {
@@ -139,6 +175,38 @@
         "Indigenous Languages in the Americas",
         "Language in Latin America"
       ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Data",
+      "keywords": ["Python (pandas, NumPy, Pillow)", "SQL", "PHP", "HTML/CSS", "OpenRefine", "Command line (rclone, Git)"]
+    },
+    {
+      "name": "Systems & Platforms",
+      "keywords": ["Archipelago (Drupal/Solr)", "TMS", "WordPress", "Omeka", "ArchivesSpace", "LibApps/LibGuides", "Transkribus", "Jekyll/CollectionBuilder", "Preservica", "Wax", "GitHub/GitLab", "Voyant Tools"]
+    },
+    {
+      "name": "Cloud, Storage & Preservation",
+      "keywords": ["S3-compatible object storage", "Backup automation", "Checksum/fixity verification", "IIIF", "Dublin Core", "CARE and FAIR principles"]
+    }
+  ],
+  "presentations": [
+    {
+      "name": "DIY IIIF: A Sample of Standalone, Static, and Skunkworks Implementations",
+      "publisher": "IIIF Annual Conference and Showcase, Getty Museum, Los Angeles, CA",
+      "releaseDate": "2024-06-01"
+    },
+    {
+      "name": "Preserving and Celebrating Quechua in NYC",
+      "publisher": "Quechua Alliance Annual Meeting, Harvard University, Cambridge, MA (with G. Appiani, M. Pereira, D. Arones)",
+      "releaseDate": "2023-04-01",
+      "url": "https://thequechua.org/event-program/"
+    },
+    {
+      "name": "Bein' Lum: Language as a Legitimizing Force For an 'Illegitimate' People",
+      "publisher": "LAMI National Research Symposium, Stamford, CT",
+      "releaseDate": "2018-07-01"
     }
   ],
   "awards": [
