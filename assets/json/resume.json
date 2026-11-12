@@ -3,8 +3,7 @@
     "name": "Alía Warsco",
     "label": "librarian, digital archivist",
     "image": "",
-    "email": "aliawarsco@gmail.com",
-    "phone": "(502) 309-0032",
+    "email": "aliawarsco [at] gmail [dot] com",
     "location": {
       "city": "Brooklyn",
       "countryCode": "US",
@@ -42,8 +41,8 @@
     {
       "name": "Division of Libraries, New York University",
       "position": "Digital Scholarship Graduate Student Specialist",
-      "startDate": "2024-02-01",
-      "endDate": "2025-05-01",
+      "startDate": "2024-05-01",
+      "endDate": "2025-06-01",
       "summary": "Supported the department's DH grant opportunities, and supported faculty and student projects with consultation, workshops, advice, and guidance",
       "highlights": [
         "Developed research guides, tutorials, and LibGuides to assist in navigating digital humanities, IIIF standards, and creating digital collections",
@@ -98,7 +97,7 @@
         "Assessed cultural, linguistic, and ethical considerations in preserving Indigenous media, designing for\ncommunity and scholarly use while maintaining data integrity and respecting original contexts"
       ],
       "startDate": "2025-01-01",
-      "url": "https://runaqlib.github.io/cronicawan-wax/"
+      "url": "https://runaqlib.github.io/runakunaqbibliotecanku/"
     },
     {
       "name": "Runakunaq Bibliotecanku",
@@ -110,7 +109,7 @@
       ],
       "startDate": "2023-01-01",
       "endDate": "2024-12-01",
-      "url": "https://runaqlib.github.io/runakunaqbibliotecanku/"
+      "url": "https://runaqlib.github.io/cronicawan-wax/"
     },
     {
       "name": "EcStatic Magic: Static Sites for DH Projects",
